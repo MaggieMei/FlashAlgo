@@ -137,3 +137,6 @@ projects:
     stm32f4xx_2048:
         - *module_tools
         - records/projects/st/STM32F4xx_2048.yaml
+    stm32f4xx_512:
+        - *module_tools
+        - records/projects/st/STM32F4xx_512.yaml
